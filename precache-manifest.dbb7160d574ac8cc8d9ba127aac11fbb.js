@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f32a110d8b73e1f591e4517ad6809688",
+    "revision": "ac18c4c9adbe9653681943f2c0f7b3d4",
     "url": "/labo-langage/index.html"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/labo-langage/static/css/8.128a24d2.chunk.css"
   },
   {
-    "revision": "f51c40b04ccccbf95e8a",
+    "revision": "b066eee3b52963f427a2",
     "url": "/labo-langage/static/css/9.672e34b2.chunk.css"
   },
   {
@@ -88,15 +88,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/labo-langage/static/js/8.4932ee9f.chunk.js"
   },
   {
-    "revision": "f51c40b04ccccbf95e8a",
-    "url": "/labo-langage/static/js/9.0fce3543.chunk.js"
+    "revision": "b066eee3b52963f427a2",
+    "url": "/labo-langage/static/js/9.fb667b8c.chunk.js"
   },
   {
     "revision": "c566e87ac1cd6aaae62f",
     "url": "/labo-langage/static/js/main.b339e01a.chunk.js"
   },
   {
-    "revision": "98f7ea392f894606cd51",
-    "url": "/labo-langage/static/js/runtime-main.023fdaea.js"
+    "revision": "005f8dd457cb7efdf4bd",
+    "url": "/labo-langage/static/js/runtime-main.05709066.js"
   }
 ]);
