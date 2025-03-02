@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "41f085e16bec5e438aa63088e36679df",
+    "revision": "c52e090729992e34177dc0011b98687b",
     "url": "/labo-langage/index.html"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/labo-langage/static/css/9.241b1ddd.chunk.css"
   },
   {
-    "revision": "bdd6536ff8bb92fddcec",
+    "revision": "da64abe82a6c6871f3eb",
     "url": "/labo-langage/static/css/main.a84ac8fa.chunk.css"
   },
   {
@@ -96,8 +96,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/labo-langage/static/js/9.e6704d4f.chunk.js"
   },
   {
-    "revision": "bdd6536ff8bb92fddcec",
-    "url": "/labo-langage/static/js/main.3fe482bd.chunk.js"
+    "revision": "da64abe82a6c6871f3eb",
+    "url": "/labo-langage/static/js/main.3fc40ac1.chunk.js"
   },
   {
     "revision": "928516339c49a8a67340",
