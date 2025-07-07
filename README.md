@@ -6,4 +6,4 @@ This repository contains the source code for the [Phaedra Royle Lab website](htt
 
 🔄 It supports updates without requiring a full rebuild, making content maintenance easy and efficient.
 
-This project is maintained as a side collaboration.
+This project is maintained as a side collaboration by Kilian DECLERCQ.
